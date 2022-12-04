@@ -6,4 +6,4 @@ Our main Machine Learning Model is located here: [Try our model!](https://huggin
 
 Thank you for visiting!
 
-![System Stack](3.png)
+![System Stack](2.png)
